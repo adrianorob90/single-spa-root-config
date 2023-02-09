@@ -26,7 +26,7 @@ npm install
 ...then start webpack:
 
 ```bash
-npm run dev
+npm run start
 ```
 
 Navigate to [localhost:9000](http://localhost:9000). Dovresti vedere la tua app in esecuzione ma in errore perché mostra il progetto [adrianorob90/single-spa-root-config](https://github.com/adrianorob90/svelte-webpack-single-spa-app ) che dovrebbe anche essere in esecuzione. 
