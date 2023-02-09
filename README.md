@@ -7,8 +7,8 @@ To create a new project based on this template using [degit](https://github.com/
 
 
 ```bash
-npx degit adrianorob90/single-spa-root-config svelte-app
-cd svelte-app
+npx degit adrianorob90/single-spa-root-config root-config
+cd root-config
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
@@ -19,7 +19,7 @@ cd svelte-app
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd root-config
 npm install
 ```
 
